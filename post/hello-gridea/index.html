@@ -1,73 +1,127 @@
+
+<!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+<meta charset="utf-8" >
+
 <title>Hello world | WCR`s</title>
-<link rel="shortcut icon" href="https://ds1302zs.github.io/favicon.ico?v=1594886117544">
-<link href="https://cdn.jsdelivr.net/npm/remixicon@2.3.0/fonts/remixicon.css" rel="stylesheet">
+<meta name="description" content="暂时自留地">
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css">
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+<link rel="shortcut icon" href="https://ds1302zs.github.io/favicon.ico?v=1596683675517">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://ds1302zs.github.io/styles/main.css">
-<link rel="alternate" type="application/atom+xml" title="Hello world | WCR`s - Atom Feed" href="https://ds1302zs.github.io/atom.xml">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700">
 
 
 
-    <meta name="description" content="没有Github账户？
-用qq邮箱注册一个！！！
-我的连载
-已完成
-char* a=NULL;
+<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
 
-正在完成
-《惊天秘档》
-《喵星统治世界》
-即将开始
-char* a=NULL;
 
-..." />
-    <meta name="keywords" content="Gridea" />
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
-    <script src="https://cdn.bootcss.com/highlight.js/9.12.0/highlight.min.js"></script>
+
   </head>
   <body>
-    <div class="main">
-      <div class="main-content">
-        <div class="site-header">
-  <a href="https://ds1302zs.github.io">
-  <img class="avatar" src="https://ds1302zs.github.io/images/avatar.png?v=1594886117544" alt="">
-  </a>
-  <h1 class="site-title">
-    WCR`s
-  </h1>
-  <p class="site-description">
-    暂时自留地
-  </p>
-  <div class="menu-container">
-    
-      
-        <a href="/" class="menu">
-          首页
-        </a>
-      
-    
-      
-        <a href="/archives" class="menu">
-          归档
-        </a>
-      
-    
-      
-        <a href="/tags" class="menu">
-          标签
-        </a>
-      
-    
-      
-        <a href="/post/about" class="menu">
-          关于
-        </a>
-      
-    
+    <div id="app" class="main">
+      <div class="site-header-container">
+  <div class="site-header">
+    <div class="left">
+      <a href="https://ds1302zs.github.io">
+        <img class="avatar" src="https://ds1302zs.github.io/images/avatar.png?v=1596683675517" alt="" width="32px" height="32px">
+      </a>
+      <a href="https://ds1302zs.github.io">
+        <h1 class="site-title">WCR`s</h1>
+      </a>
+    </div>
+    <div class="right">
+      <transition name="fade">
+        <i class="icon" :class="{ 'icon-close-outline': menuVisible, 'icon-menu-outline': !menuVisible }" @click="menuVisible = !menuVisible"></i>
+      </transition>
+    </div>
   </div>
+</div>
+
+<transition name="fade">
+  <div class="menu-container" style="display: none;" v-show="menuVisible">
+    <div class="menu-list">
+      
+        
+          <a href="/" class="menu purple-link">
+            首页
+          </a>
+        
+      
+        
+          <a href="/archives" class="menu purple-link">
+            归档
+          </a>
+        
+      
+        
+          <a href="/tags" class="menu purple-link">
+            标签
+          </a>
+        
+      
+        
+          <a href="/post/about" class="menu purple-link">
+            关于
+          </a>
+        
+      
+    </div>
+  </div>
+</transition>
+
+
+      <div class="content-container">
+        <div class="post-detail">
+          
+            <div class="feature-container" style="background-image: url('https://ds1302zs.github.io/post-images/hello-gridea.png')">
+            </div>
+          
+          <h2 class="post-title">Hello world</h2>
+          <div class="post-info post-detail-info">
+            <span><i class="icon-calendar-outline"></i> 2018-12-12</span>
+            
+              <span>
+                <i class="icon-pricetags-outline"></i>
+                
+                  <a href="https://ds1302zs.github.io/tag/OLJdchTWE/">
+                    Gridea
+                    
+                  </a>
+                
+              </span>
+            
+          </div>
+          <div class="post-content">
+            <p>没有Github账户？<br>
+用qq邮箱注册一个！！！</p>
+<h1 id="我的连载">我的连载</h1>
+<h2 id="已完成">已完成</h2>
+<pre><code class="language-c++">char* a=NULL;
+</code></pre>
+<h2 id="正在完成">正在完成</h2>
+<h3 id="惊天秘档"><a href="https://ds1302zs.github.io/post/1-suo-yin/">《惊天秘档》</a></h3>
+<h3 id="喵星统治世界"><a href="https://ds1302zs.github.io/post/2-suo-yin/">《喵星统治世界》</a></h3>
+<h2 id="即将开始">即将开始</h2>
+<pre><code class="language-c++">char* a=NULL;
+</code></pre>
+
+          </div>
+        </div>
+
+        
+      </div>
+
+      
+
+      <div class="site-footer">
+  <div class="slogan">暂时自留地</div>
   <div class="social-container">
     
       
@@ -81,119 +135,26 @@ char* a=NULL;
       
     
   </div>
+  Powered by WCR | <a class="rss" href="https://ds1302zs.github.io/atom.xml" target="_blank">RSS</a>
 </div>
 
-        <div class="post-detail">
-          <article class="post">
-            <h2 class="post-title">
-              Hello world
-            </h2>
-            <div class="post-info">
-              <span>
-                2018-12-12
-              </span>
-              <span>
-                1 min read
-              </span>
-              
-                <a href="https://ds1302zs.github.io/tag/OLJdchTWE/" class="post-tag">
-                  # Gridea
-                </a>
-              
-            </div>
-            
-              <img class="post-feature-image" src="https://ds1302zs.github.io/post-images/hello-gridea.png" alt="">
-            
-            <div class="post-content-wrapper">
-              <div class="post-content">
-                <p>没有Github账户？<br>
-用qq邮箱注册一个！！！</p>
-<h1 id="我的连载">我的连载</h1>
-<h2 id="已完成">已完成</h2>
-<pre><code class="language-c++">char* a=NULL;
-</code></pre>
-<h2 id="正在完成">正在完成</h2>
-<h3 id="惊天秘档"><a href="https://ds1302zs.github.io/post/1-suo-yin/">《惊天秘档》</a></h3>
-<h3 id="喵星统治世界"><a href="https://ds1302zs.github.io/post/2-suo-yin/">《喵星统治世界》</a></h3>
-<h2 id="即将开始">即将开始</h2>
-<pre><code class="language-c++">char* a=NULL;
-</code></pre>
 
-              </div>
-              <div class="toc-container">
-                <ul class="markdownIt-TOC">
-<li><a href="#%E6%88%91%E7%9A%84%E8%BF%9E%E8%BD%BD">我的连载</a>
-<ul>
-<li><a href="#%E5%B7%B2%E5%AE%8C%E6%88%90">已完成</a></li>
-<li><a href="#%E6%AD%A3%E5%9C%A8%E5%AE%8C%E6%88%90">正在完成</a>
-<ul>
-<li><a href="#%E6%83%8A%E5%A4%A9%E7%A7%98%E6%A1%A3">《惊天秘档》</a></li>
-<li><a href="#%E5%96%B5%E6%98%9F%E7%BB%9F%E6%B2%BB%E4%B8%96%E7%95%8C">《喵星统治世界》</a></li>
-</ul>
-</li>
-<li><a href="#%E5%8D%B3%E5%B0%86%E5%BC%80%E5%A7%8B">即将开始</a></li>
-</ul>
-</li>
-</ul>
-
-              </div>
-            </div>
-          </article>
-        </div>
-
-        
-
-        
-
-        <div class="site-footer">
-  Powered by WCR
-  <a class="rss" href="https://ds1302zs.github.io/atom.xml" target="_blank">
-    <i class="ri-rss-line"></i> RSS
-  </a>
-</div>
-
-      </div>
     </div>
+    <script type="application/javascript">
 
-    <script>
-      hljs.initHighlightingOnLoad()
+hljs.initHighlightingOnLoad()
 
-      let mainNavLinks = document.querySelectorAll(".markdownIt-TOC a");
+var app = new Vue({
+  el: '#app',
+  data: {
+    menuVisible: false,
+  },
+})
 
-      // This should probably be throttled.
-      // Especially because it triggers during smooth scrolling.
-      // https://lodash.com/docs/4.17.10#throttle
-      // You could do like...
-      // window.addEventListener("scroll", () => {
-      //    _.throttle(doThatStuff, 100);
-      // });
-      // Only not doing it here to keep this Pen dependency-free.
+</script>
 
-      window.addEventListener("scroll", event => {
-        let fromTop = window.scrollY;
 
-        mainNavLinks.forEach((link, index) => {
-          let section = document.getElementById(decodeURI(link.hash).substring(1));
-          let nextSection = null
-          if (mainNavLinks[index + 1]) {
-            nextSection = document.getElementById(decodeURI(mainNavLinks[index + 1].hash).substring(1));
-          }
-          if (section.offsetTop <= fromTop) {
-            if (nextSection) {
-              if (nextSection.offsetTop > fromTop) {
-                link.classList.add("current");
-              } else {
-                link.classList.remove("current");    
-              }
-            } else {
-              link.classList.add("current");
-            }
-          } else {
-            link.classList.remove("current");
-          }
-        });
-      });
 
-    </script>
+
   </body>
 </html>

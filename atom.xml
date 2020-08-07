@@ -2,11 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ds1302zs.github.io</id>
     <title>WCR`s</title>
-    <updated>2020-08-06T07:09:04.965Z</updated>
+    <updated>2020-08-07T01:29:46.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ds1302zs.github.io"/>
     <link rel="self" href="https://ds1302zs.github.io/atom.xml"/>
-    <subtitle>暂时自留地</subtitle>
+    <subtitle>暂时自留地
+&lt;br /&gt;
+&lt;marquee&gt;&lt;p style=&quot;color:red&quot;&gt;This text will scroll from right to left&lt;/p&gt;&lt;/marquee&gt;</subtitle>
     <logo>https://ds1302zs.github.io/images/avatar.png</logo>
     <icon>https://ds1302zs.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, WCR`s</rights>

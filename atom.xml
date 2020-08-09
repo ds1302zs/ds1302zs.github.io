@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ds1302zs.github.io</id>
     <title>WCRの自留地</title>
-    <updated>2020-08-09T06:16:22.400Z</updated>
+    <updated>2020-08-09T06:37:58.462Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ds1302zs.github.io"/>
     <link rel="self" href="https://ds1302zs.github.io/atom.xml"/>
@@ -16,6 +16,32 @@
         <link href="https://ds1302zs.github.io/post/bian-cheng-qi-shang-quan/">
         </link>
         <updated>2020-08-09T01:56:18.000Z</updated>
+        <content type="html"><![CDATA[<p><em><strong><u>慎用！慎用！</u></strong></em></p>
+<p>此法用于说给编程班的同学，让<strong>他</strong>受到七伤拳一样的伤害，故曰“编程七伤拳”</p>
+<ol>
+<li>用一副似懂非懂的语气对他说：“这个班里有女的吗？”</li>
+<li>对他说：“你被谁带过绿帽？”</li>
+<li>对他说：“你见过最复杂的情感关系是啥？”</li>
+<li>对他说：“你喜欢哪个女生？”</li>
+<li>对他说：“你帮别人传过小情书吗？”</li>
+<li>对他说：“你写过小情书吗？”</li>
+<li>对他说：“你知道班里的八卦吗？”</li>
+</ol>
+<p>面对冷冰冰的无尽代码的诸位，<br>
+应该回答不出来，而我也回答不出来。<br>
+这才是编程七伤拳对大家造成伤害的原因。</p>
+<hr>
+<p>全民投票：你支持哪个拳法？</p>
+<ul class="contains-task-list">
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-5418569"><label class="task-list-item-label" for="task-item-5418569"> 1号拳</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4907514"><label class="task-list-item-label" for="task-item-4907514"> 2号拳</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-4070219"><label class="task-list-item-label" for="task-item-4070219"> 3号拳</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9513230"><label class="task-list-item-label" for="task-item-9513230"> 4号拳</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-6699779"><label class="task-list-item-label" for="task-item-6699779"> 5号拳</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-9831890"><label class="task-list-item-label" for="task-item-9831890"> 6号拳</label></li>
+<li class="task-list-item"><input class="task-list-item-checkbox" disabled="" type="checkbox" id="task-item-1825445"><label class="task-list-item-label" for="task-item-1825445"> 7号拳</label></li>
+</ul>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《酷町十二时辰》前传：漫步问答老城]]></title>
@@ -23,6 +49,46 @@
         <link href="https://ds1302zs.github.io/post/lesslessku-ting-shi-er-shi-chen-greatergreater-qian-chuan-man-bu-wen-da-lao-cheng/">
         </link>
         <updated>2020-08-09T01:27:12.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="1出发">1.出发！</h2>
+<p>​         我只是一个普普通通的HTTPS数据包，一早就被chrome.exe的Network Service创造了出来。</p>
+<p>​         也不知道过了多久，我来到了RPC码头，登上了Network Service的<s>贼船</s>轮船。不一会儿，我就来到了tcpip.sys港。</p>
+<p>​         “哇！这里好漂亮！果然是港口城市！”，下了轮船，我不禁这样感慨。这座繁华的港口既有高250MB的CBD，也有近2GB的购物中心和商圈，我不得不承认，这可比那个Network Service好多了。</p>
+<p>​         不过，我可没有时间<s>欣赏海滩上的美女</s>，1000秒<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup>后，套了一层层外衣<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup>的我们就要到下层网卡<sup class="footnote-ref"><a href="#fn3" id="fnref3">[3]</a></sup>去了。</p>
+<p>​         来到网卡这个繁忙的，足足有1平方分米大的火车站，我腿都要软了。只不过这里实在太黑了。</p>
+<p>​         沿着昏暗的灯光，我们踏上了火车站。Network Service派出的人向大家介绍，这个火车站与世界上所有的火车站一样，都遵循Ethernet协议，都有唯一ID。这个车站的ID是11-27-F5-8A-79-54。这个人让大家掏出火车票，说<s>朕</s>就先送到这了。我按照票上的指引，来到了第65535检票口，穿上Ethernet背心，登上了从11-27-F5-8A-79-54始发，到1A-2D-F3-49-51-EE的列车。</p>
+<h2 id="2下车">2.下车</h2>
+<p>​        我在火车上睡了一大觉，醒来就到了。这可是从合肥的电脑到上海的服务器啊，只要10000秒！下车后，我又要脱去外衣，脱一次坐一次大巴。</p>
+<p>​        终于，我来到了这里的Nginx码头。进门有个牌子，上写“Nginx for Ubuntu”。Ubuntu我熟悉，就是那些用电脑的人类喜欢装进虚拟机用的那个操作系统嘛，AK虐全场的专用系统还改了名叫NOILinux。都用虚机装Ubuntu，<s>怕自家WIN10“受伤”了，这话倒没错，win10比起Ubuntu来真是弱不禁风</s>。听说虚拟机好神奇，能在电脑里模拟一个电脑。扯远了。</p>
+<p>​        进了门，一交小饼干<sup class="footnote-ref"><a href="#fn4" id="fnref4">[4]</a></sup>，守城人咬了一口，取出chrome.exe塞进里面的纸条，打报告，一番操作后，我才来到传说中的问答古城。城门口贴着烂了一半的GBK告知，我用Base64译码器读出了内容，烂掉的以☆代替：</p>
+<blockquote>
+<h1 id="版规">版规</h1>
+<p>发☆人：酷☆喵~o( =☆ω∩= )o~ / 2☆☆8-01-☆9</p>
+<p>提☆规则：</p>
+<p>Q1. ☆☆发布法律、行☆法规禁☆的内☆</p>
+<p>……</p>
+</blockquote>
+<p>​       这里好热闹呀，我得记下来名字：wenda.codingtang.com。城里热热闹闹，有人发帖问问题，有人卖游戏，卖刷赞服务，全然无视版规。回头一看，原来的版规上，广告乱贴，何止烂了一半！哟，还有两个泼妇在骂街耶！只听着他们口吐芬芳，嘴里冒出污言秽语，居然还有人叫好？脑残！</p>
+<p>​       继续往前，只见破旧不堪的千帖纪念碑已被贴满广告，未解决和已解决之间的界河浑浊不清，隔壁王家水库的水源源不断地往这里涌……</p>
+<p>​        我终于来到了烂了半截的“俺要提问”的亭子，把一条满载着污言秽语的纸条和一个SQL针管<sup class="footnote-ref"><a href="#fn5" id="fnref5">[5]</a></sup>递给了守亭老太婆，这些是Network Service从下面弄上来的提交数据。就在提交的一瞬间，我掉入了突然出现的无底洞……</p>
+<h2 id="3深入">3.深入</h2>
+<p>​        不知过了多久，我到达了这座古城的地底：这是一个SQL数据库，而我已变成了SQL包！这时我才弄明白：我所在进程的电脑的主人，不只是一个喷子，是一个黑客！</p>
+<p>​        我提交了一个SQL指令，就是那个针筒，没多久我就变成了一个藏在文件系统中的wellcome.php文件……</p>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>电脑世界1000000秒=人类1秒 <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn2" class="footnote-item"><p>指各层协议数据报文报头 <a href="#fnref2" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn3" class="footnote-item"><p>越贴近硬件就越往下 <a href="#fnref3" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn4" class="footnote-item"><p>指Cookies <a href="#fnref4" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn5" class="footnote-item"><p>指SQL注入，一种网络攻击方式 <a href="#fnref5" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[刘X程，你太LOW了]]></title>
@@ -30,6 +96,24 @@
         <link href="https://ds1302zs.github.io/post/liu-x-cheng-ni-tai-low-liao/">
         </link>
         <updated>2020-08-06T06:54:18.000Z</updated>
+        <content type="html"><![CDATA[<p>正确的机惨老师的方式：</p>
+<p>用老师电脑登录问答，</p>
+<p>然后在老师电脑上<a href="https://www.bitaddress.org/bitaddress.org-v3.3.0-SHA256-dec17c07685e1870960903d8f58090475b25af946fe95a734f88408cef4aa194.html?culture=zh-cn">点击这里</a></p>
+<p>按照网页上的去做，</p>
+<p>将私钥发到qq群，</p>
+<p>在你的电脑上复制私钥，</p>
+<p>回到老师电脑，撤回消息，</p>
+<p>把比特币地址复制下来，</p>
+<p>再发个耸人听闻的问答帖子，</p>
+<p>以下给出模板：</p>
+<hr>
+<p>酷町官方融资平台，0风险，双倍收益！</p>
+<p>请向以下比特币地址打款：</p>
+<p>『此处填入你搞到的比特币地址』</p>
+<hr>
+<p>然后你就可以坐享其成了！（1比特币≈10000美刀）</p>
+<p><strong>刘X程，你本来是可以实现迈向财富自由的第一步的。</strong></p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《喵星统治世界》第一章 干货岛起义]]></title>
@@ -37,13 +121,21 @@
         <link href="https://ds1302zs.github.io/post/lesslessmiao-xing-tong-zhi-shi-jie-greatergreater-di-yi-zhang-gan-huo-dao-qi-yi/">
         </link>
         <updated>2020-07-16T05:40:56.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#2 索引]]></title>
-        <id>https://ds1302zs.github.io/post/2-suo-yin/</id>
-        <link href="https://ds1302zs.github.io/post/2-suo-yin/">
-        </link>
-        <updated>2020-07-16T05:39:33.000Z</updated>
+        <content type="html"><![CDATA[<p>2009年1月3日<br>
+只听得“轰”的一声，一艘飞船穿越了虫洞，来到了比特宇宙的核心：编程世界。<br>
+Coding喵和Cryptokitties，这两位拓荒者准备降落到编程世界中最大的大陆：Github大陆上，结果……<br>
+“紧急警报，紧急警报！”<br>
+“G11警报，冷却循环控制系统无响应！”<br>
+“冷却循环无响应！飞船将解体！”<br>
+“嘣！”飞船坠落，而他们撑开了降落伞，准备迫降。<br>
+“好陌生啊？”Coding喵说。Cryptokitties拿出了他的Block_Hash望远镜，往四周看了看，画了一张地图。<br>
+“杀！！！”只听得有数不清的人马朝着他们过来，这时，Coding喵捡起了一本史书，翻了翻，发现了一段话：<br>
+<code>c++ our.power+=our.war(&quot;com city/2&quot;,13，false); our.back(600); our.back(600); our.back(600); our.power+=our.what();</code><br>
+Coding喵碰了一下our.what();立马眼前浮现出来“我们是干货，这里是干货岛”十一个大字。听他讲述过之后，Cryptokitties念<br>
+<code>c++ me.power+=2147483647; me.kf();</code><br>
+顿时，一股毒电波横穿全岛，十一万干货收于两猫麾下。<br>
+这天，Coding喵准备抓点鱼，结果掉到水里了，好一会儿才出来，这时遇到干货岛填海运动，Coding喵顺势成为了总司令，指挥“干货人民反水贴志愿军”。</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《惊天秘档》第0章]]></title>
@@ -51,6 +143,18 @@
         <link href="https://ds1302zs.github.io/post/lesslessliang-tian-mi-dang-greatergreater-di-0-zhang/">
         </link>
         <updated>2020-07-15T12:23:06.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="惊天秘档之-青鸟上天">《惊天秘档》之 青鸟上天</h1>
+<p><strong>总第0章 2140年12月20日  星期六</strong></p>
+<h6 id="好奇害死猫-民间俗语">好奇害死猫。——民间俗语</h6>
+<p>​        上周六，总部全球观测室发现太阳引力场发生变化，经过不知道多少天的调查，确认是A47文明干扰了引力场，但根据2100年6月8日总部代表全球人民及联合国签署的《星际和平宪章》第4条“在未对其他文明造成明显影响时，不得干涉”，而且没多大事，虚伪的总部为维护星际和平组织的表象，也就睁一只眼闭一只眼了。</p>
+<p>​        直到今天，总部全球观测室才发现太阳光有偏折，世界各地的民众反应太阳变成绿色的了，这下总部终于有了一个借口练练手了，于是408处派给夏宇天一个任务：跟A47文明“谈判”，还附带了“谈判”话术。他一看，这哪是谈判呀，分明就是勒索损失费！这时，联合国人口发展基金让他随代表团去参加在A47文明属地举办的第2358届星际单身狗论坛，于是夏宇天带着跟A47文明“谈判”的任务，搭乘最新型的大型飞船：青鸟号曲速+反物质+孢子纠缠三引擎飞船去论坛所在地“博迪安”了。（这周作业忒多，夏宇天还带了作业）</p>
+<hr>
+<p>『2140.12.20 CNN New York』</p>
+<p>据本台消息，联合国人口发展基金，联合国星际维和部队，星际联邦加盟及托管理事会和特邀水贴共和国代表团将乘坐青鸟号飞船出使A47参加星际和平组织大会。    本台将在全球直播发射过程，届时将会看到联合国旗与水贴国红蓝绿三色旗在飞船上飘扬！</p>
+<hr>
+<p>​        星际单身狗论坛其实就是专家联谊会，没一会儿，作业就写完了（还嫌多呢，你们班同学都上外太空写作业了），但既然是专家学术联谊会，肯定要论文答辩，同行评审等等，几个小时得有了。趁此机会，夏宇天准备完成任务，最后发现是恶搞人士所为，要到一句“我们会进行调查”，一分钱都没要到。天知道会不会调查！这时，夏宇天发现了一个查询机，跳出花里胡哨的多媒体界面后，居然是命令行。所幸夏宇天懂几个命令，很快就通过查询机以root用户权限连入了数据库，窃取了一些秘档。</p>
+<p>​        他没有想到的是，这些秘档不仅揭开了总部的内幕，甚至引发了三战，导致地球沦为核废土，人类流亡宇宙……</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[《惊天秘档》第-1章]]></title>
@@ -58,13 +162,15 @@
         <link href="https://ds1302zs.github.io/post/lesslessliang-tian-mi-dang-greatergreater-di-yi-zhang/">
         </link>
         <updated>2020-07-15T12:18:27.000Z</updated>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#1 索引]]></title>
-        <id>https://ds1302zs.github.io/post/1-suo-yin/</id>
-        <link href="https://ds1302zs.github.io/post/1-suo-yin/">
-        </link>
-        <updated>2020-07-15T12:16:36.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="惊天秘档之-太初">《惊天秘档》之 太初</h1>
+<p><strong>总第-1章</strong></p>
+<p><em>（以下为<s>废话</s>人物介绍）</em></p>
+<p>总部：全名特工总部，是一个神秘的机构，据2141年8月4日（八四折翼事件）流出的秘档表明，总部就是设立在美国51区的美国外星生命协调局（U.S. Alien Life Coordination Agency）的天朝分部</p>
+<p>夏宇天：一名12岁的男特工，2140年1月1日任职联合国人口发展基金会下属的联合国单身狗专项委员会主席。</p>
+<p>秋起：一个女特工，<s>就是夏宇天暗恋的那位</s></p>
+<p><em>（以上为<s>废话</s>人物介绍）画删除线的都没看到，<s>因为都被清除记忆了</s></em></p>
+<p>​        不知何时，何地，冒出一个奇点。又不知何时，宇宙大爆炸开始了。如今已过去137亿年，太阳系中，地球上的人类发明出了越来越多的高科技，对，这就是2020年！再等等，120年后故事才开始……</p>
+]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello world]]></title>
@@ -72,5 +178,19 @@
         <link href="https://ds1302zs.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>没有Github账户？<br>
+用qq邮箱注册一个！！！</p>
+<h1 id="我的连载">我的连载</h1>
+<h2 id="已完成">已完成</h2>
+<pre><code class="language-c++">char* a=NULL;
+</code></pre>
+<h2 id="正在完成">正在完成</h2>
+<h3 id="惊天秘档">《惊天秘档》</h3>
+<h3 id="喵星统治世界">《喵星统治世界》</h3>
+<h3 id="酷町十二时辰">《酷町十二时辰》</h3>
+<h2 id="即将开始">即将开始</h2>
+<pre><code class="language-c++">char* a=NULL;
+</code></pre>
+]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ds1302zs.github.io</id>
     <title>WCRの自留地</title>
-    <updated>2020-08-08T06:07:51.908Z</updated>
+    <updated>2020-08-09T01:27:43.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ds1302zs.github.io"/>
     <link rel="self" href="https://ds1302zs.github.io/atom.xml"/>
@@ -10,6 +10,13 @@
     <logo>https://ds1302zs.github.io/images/avatar.png</logo>
     <icon>https://ds1302zs.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, WCRの自留地</rights>
+    <entry>
+        <title type="html"><![CDATA[《酷町十二时辰》前传：漫步问答老城]]></title>
+        <id>https://ds1302zs.github.io/post/lesslessku-ting-shi-er-shi-chen-greatergreater-qian-chuan-man-bu-wen-da-lao-cheng/</id>
+        <link href="https://ds1302zs.github.io/post/lesslessku-ting-shi-er-shi-chen-greatergreater-qian-chuan-man-bu-wen-da-lao-cheng/">
+        </link>
+        <updated>2020-08-09T01:27:12.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[刘X程，你太LOW了]]></title>
         <id>https://ds1302zs.github.io/post/liu-x-cheng-ni-tai-low-liao/</id>
